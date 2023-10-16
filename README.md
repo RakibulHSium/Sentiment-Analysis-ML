@@ -199,6 +199,35 @@ Now, I want to evaluate the feelings' distribution throughout the train dataset.
 | Vaccination Dataset |            | 85%                  | 87%                    |              |         |
 
 
+## References
+
+*Gamal, D.; Alfonse, M.; El-Horbaty, E.S.; Salem, A.B. A comparative study on opinion mining algorithms of social media statuses. In Proceedings of the Intelligent Computing and Information Systems (ICICIS), Cairo, Egypt, 5–7 December 2017; pp. 385–390.*
+
+*Petz, G.; Karpowicz, M.; Fürschuß, H.; Auinger, A.; Strˇíteský, V.; Holzinger, A. Opinion mining on the web 2.0—Characteristics of user generated content and their impacts. In Lecture Notes in Computer Science LNCS 7947; Springer: Berlin/Heidelberg, Germany, 2013; pp. 35–46.*
+
+*Zhang, Z.; Ye, Q.; Zhang, Z.; Li, Y. Sentiment classification of Internet restaurant reviews written in Cantonese. Expert Syst. Appl. 2011, 38, 7674–7682.*
+
+*Petz, G.; Karpowicz, M.; Fürschuß, H.; Auinger, A.; Strˇíteský, V.; Holzinger, A. Computational approaches for mining user’s opinions on the web 2.0. Inf. Process. Manag. 2015, 51, 510–519.* 
+
+*Barnaghi, P.; Ghaffari, P.; Breslin, J.G. Opinion mining and sentiment polarity on twitter and correlation between events and sentiment. In Proceedings of the Second international Conference Big Data Computing Service and Applications (Bigdata Service), Oxford, UK, 29 March–1 April 2016; pp. 52–57.*
+
+*C. Zhang, D. Zeng, J. Li, F.-Y. Wang, and W. Zuo, “Sentiment analysis of Chinese documents: From sentence to document level,” Journal of the American Society for Information Science and Technology, vol. 60, no. 12, pp. 2474–2487, 2009.*
+
+*A. Yessenalina, Y. Yue, and C. Cardie, “multi-level structured models for document-level sentiment classification,” in in Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing, Massachusetts, USA. Association for Computational Linguistics, 2010, pp. 1046–1056.*
+
+*D. Bollegala, D. Weir, and J. Carroll, “Cross-domain sentiment classification using a sentiment sensitive thesaurus,” IEEE transactions on knowledge and data engineering, vol. 25, no. 8, pp. 1719–1731, 2013.*
+
+*D. Zhang, H. Xu, Z. Su, and Y. Xu, “Chinese comments sentiment classification based on word2vec and svm perf,” Expert Systems with Applications, vol. 42, no. 4, pp. 1857– 1863, 2015.*
+
+*Tamilselvi, A.; ParveenTaj, M. Sentiment analysis of micro blogs using opinion mining classification algorithm. Int. J. Sci. Res. IJSR 2013, 2, 196–202.*
+
+*Varsha Sahayak, Vijaya Shete, Apashabi Pathan. “SENTIMENT ANALYSIS ON TWITTER DATA.” International Journal of Innovative Research in Advanced Engineering (IJIRAE), Vol.2, Issue 1, Pages 178-183, January 2015.*
+
+*Kim S, Hovy E. Determining the sentiment of opinions. In: Proceedings of international conference on Computational Linguistics (COLING‟04); 2004.*
+
+*A. Bhatt, A. Patel, H. Chedda and K. Gawande, Amazon Review Classification and Sentiment Analysis, International Journal of Computer Science and Information Technologies 6.6,pp.-5107-5110, 2015.*
+
+*V. Sindhwani and P. Melville, “Document-word co- regularization for semi-supervised sentiment analysis,” in in proceeding of Eighth IEEE International Conference on Data Mining, Pisa, Italy. IEEE, 2008, pp. 1025–1030.*
 
 
 
